@@ -46,3 +46,9 @@ Try the chatbot here: **[AI Health Assistant App](https://harsha-vardhan-katuri-
 
 ## Notes  
 ⚠️ This chatbot provides basic healthcare guidance and should not be used as a replacement for professional medical advice. Always consult a qualified doctor for serious health concerns.
+
+## 📝 Author  
+**Harsha Vardhan Katuri**  
+
+## 🔗 License  
+This project is licensed under the **MIT License**.  
