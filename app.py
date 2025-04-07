@@ -7,7 +7,6 @@ from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 nltk.download('stopwords')
 
-
 chatbot= pipeline("text-generation", model="distilgpt2")
 
 def healthcare_chatbot(user_input):
