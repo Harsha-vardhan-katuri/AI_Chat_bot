@@ -41,9 +41,6 @@ streamlit run app.py
 - Type your healthcare-related query in the text box.  
 - Click Submit and receive an AI-generated response.  
 
-## Live Demo 🚀  
-Try the chatbot here: **[AI Health Assistant App](https://harsha-vardhan-katuri-ai-chat-bot-app-vmcsl7.streamlit.app/)**  
-
 ## Notes  
 ⚠️ This chatbot provides basic healthcare guidance and should not be used as a replacement for professional medical advice. Always consult a qualified doctor for serious health concerns.
 
