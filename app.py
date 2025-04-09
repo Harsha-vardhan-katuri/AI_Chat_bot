@@ -1,11 +1,13 @@
 import streamlit as st
 import nltk
+import torch
 from transformers import pipeline
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
 nltk.download('punkt')
 nltk.download('stopwords')
+
 
 chatbot= pipeline("text-generation", model="distilgpt2")
 
